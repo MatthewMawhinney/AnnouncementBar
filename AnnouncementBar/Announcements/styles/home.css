@@ -1,0 +1,168 @@
+/* Home page main section styles */
+#ImgBlockTop {
+    background-image: url("../images/home/Building.jpg");
+    background-size:cover;
+    width:100%;
+    height:500px;
+}
+#blockTop-title {
+    color:white;
+    font-size: 3.5em;
+    font-family: 'Vollkorn', serif;
+    text-shadow: 3px 3px 4px black;
+    padding-top:120px;
+    padding-left:70px;
+}
+#loginBlock {
+    width:520px;
+    height:300px;
+    float:right;
+}
+#homeLoginForm h2{
+    margin-left: 20px;
+}
+#failLogin {
+  margin-left: 20px;
+  font-weight: bold;
+  color: red;
+}
+#homeLoginForm {
+    width:280px;
+    float:right;
+    background-color: white;
+    border:3px solid black;
+    box-shadow: -5px 5px 5px black;
+}
+.block {
+    display: block;
+    width:250px;
+    height:50px;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 1.5em;
+    padding:5px;
+    margin: 20px auto;
+}
+#buttonlogin{
+    border: none;
+    background-color: #242424;
+    color:white;
+    font-weight: bold;
+}
+#services-block {
+    clear: both;
+    width:100%;
+    height:100%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.services {
+    display: inline-block;
+    width:19%;
+    height:100%;
+    margin:0 4.5px;
+    vertical-align: top;
+}
+.services-icon {
+    display: block;
+    margin:0 auto;
+    padding:10px;
+}
+.services-title {
+    text-align: center;
+    padding:0 0 15px 0;
+    margin:0;
+}
+.services-desc {
+    text-align: center;
+    padding:0;
+    margin:0 auto 0 auto;
+    width:90%;
+}
+#ImgBlockBot {
+    background-image: url("../images/home/Lab.jpg");
+    background-size:cover;
+    width:100%;
+    height:250px;
+    margin-bottom:20px;
+}
+#blockBot-title {
+    color:white;
+    font-size: 3em;
+    font-family: 'Vollkorn', serif;
+    text-shadow: 3px 3px 4px black;
+    text-align: center;
+    margin:0;
+    padding-top:90px;
+}
+main {
+    margin-top:30px;
+}
+main .master-wrap {
+    margin-top:30px;
+    margin-bottom:20px;
+}
+#announcement-bar {
+  width: 100%;
+  height: 60px;
+  border: 3px solid red;
+}
+#ann-title {
+    font-family: 'Vollkorn', serif;
+    padding: 0 20px;
+    display: inline-block;
+    color: white;
+    background-color: red;
+    height: 100%;
+    font-size: .8rem;
+}
+.announcements {
+  font-size: .6rem;
+  display: inline-block;
+  width: 60%;
+  border-right: 2px dashed red;
+  height: 100%;
+  vertical-align: top;
+  text-align: center;
+  position: relative;
+}
+.announcements-date {
+  display: inline-block;
+  width: 16.5%;
+  margin: 0 5px;
+  vertical-align: top;
+  text-align: center;
+  height: 100%;
+}
+.announcements-date p {
+  font-weight: bold;
+  font-size: .9rem;
+  margin: 7px auto 0;
+}
+.showDate {
+  margin-top: -20px;
+}
+.textShow {
+  vertical-align: middle;
+  display: inline-block;
+}
+.dbText {
+  font-size: .9rem;
+  font-weight: bold;
+  max-width: 95%;
+  margin-top: 10px;
+}
+.dbDate {
+
+}
+@keyframes fade-in {
+  to {
+    opacity: 1;
+  }
+}
+.fadeIn {
+  opacity: 0;
+  animation: fade-in .1s ease-in 1 forwards;
+}
+#slider-prev, #slider-next {
+   display: inline-block;
+}

@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    margin:0;
+    padding:0;
+    background-color: #F6F6F7;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size:1em;
+}
+.master-wrap {
+    width:1200px;
+    margin: 0 auto;
+}
+
+/* FONTS
+font-family: 'Vollkorn', serif;             !! Main Title
+font-family: 'Josefin Slab', serif;         !! Highlight
+font-family: 'Pontano Sans', sans-serif;    !! Body
+*/
+
+/* HEADER */
+header {
+    height:100px;
+    margin:0;
+    padding:0;
+}
+header .master-wrap {
+    padding-bottom: 10px;
+    border-bottom:2px solid #A1A1A1;
+}
+#hospital-title {
+    font-family: 'Vollkorn', serif;
+    color:#E8CB01;
+}
+#logoImg {
+    width:100px;
+    margin-top:10px;
+    margin-left:100px;
+}
+#main-nav {
+    width:950px;
+    float:right;
+    margin-top:15px;
+}
+#main-nav li {
+    display: inline-block;
+    padding:10px 25px;
+    margin:0 auto;
+}
+#main-nav a {
+    font-family: 'Vollkorn', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#main-nav a:link {
+    color:black;
+    text-decoration: none;
+}
+#main-nav a:visited {
+    color:black;
+}
+
+.effect-shine:hover {
+    -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
+    -webkit-mask-size: 200%;
+    animation: shine 1s infinite;
+}
+
+@-webkit-keyframes shine {
+    from {
+      -webkit-mask-position: 150%;
+    }
+
+    to {
+      -webkit-mask-position: -50%;
+    }
+}
+
+/* MAIN */
+
+/*  - - - - - ADD STYLES HERE - - - - - */
+
+
+/* FOOTER */
+footer {
+    height:65px;
+    width:100%;
+}
+footer .master-wrap {
+    border-top:2px solid #A1A1A1;
+}
+#copyright {
+    float:right;
+    padding-top:23px;
+    padding-right: 20px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size:1.1em;
+}
+#footer-nav {
+    float:left;
+    width:700px;
+    padding-top:2px;
+}
+#footer-nav li {
+    display: inline-block;
+    padding:2px 20px;
+    margin:0 auto;
+}
+#footer-nav a {
+    font-family: 'Vollkorn', serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+#footer-nav a:link {
+    color:black;
+    text-decoration: none;
+}
+#footer-nav a:visited {
+    color:black;
+}

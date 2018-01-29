@@ -1,0 +1,75 @@
+.crud {
+  max-width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px;
+  text-align: left;
+}
+.crudWrap {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+#listAnnouncements {
+  width: 100%;
+}
+#listAnnouncements th {
+  color: #f9f9f9;
+}
+#listAnnouncements td {
+  background-color: #f9f9f9;
+}
+#listAnnouncements td, #listAnnouncements th {
+  border: 2px solid black;
+}
+#listAnnouncements tr:nth-child(odd) {
+  background-color: red;
+}
+#listAnnouncements li:nth-child(even) {
+  background-color: #d3d3d3;
+}
+#listAnnouncements li {
+  height: 50px;
+}
+#listAnnouncementDate {
+  width: 200px;
+}
+ul[id^=list] li {
+  list-style: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+ul {
+  padding-left: 0;
+}
+#welcome, #empNum {
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-top: 35px;
+}
+#adminChangeMessage {
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+.buttons {
+    width:175px;
+    height:30px;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 1rem;
+}
+#logout {
+  width: 100px;
+  display: block;
+  margin-top: 20px;
+}
+input {
+  width: 275px;
+}
+#createAnnouncementTextUser, #updateAnnouncementTextUser {
+  width: 275px;
+  height: 100px;
+  font-family: 'Pontano Sans', sans-serif;
+}

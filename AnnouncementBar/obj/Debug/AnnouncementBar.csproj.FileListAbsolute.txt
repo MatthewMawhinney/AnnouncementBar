@@ -1,0 +1,116 @@
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.exe
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.exe.config
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.rsp
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.exe
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.exe.config
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.rsp
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.AppContext.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Console.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.Compression.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Claims.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.ValueTuple.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.exe
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.exe.config
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.rsp
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\VBCSCompiler.exe
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.dll.config
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.pdb
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.csprojResolveAssemblyReference.cache
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.csproj.CoreCompileInputs.cache
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.dll
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.pdb
+C:\Users\MattM\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.exe
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.exe.config
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csc.rsp
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.exe
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.exe.config
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\csi.rsp
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.AppContext.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Console.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Claims.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.exe
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.exe.config
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\vbc.rsp
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.dll.config
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\AnnouncementBar.pdb
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.csprojResolveAssemblyReference.cache
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.csproj.CoreCompileInputs.cache
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.dll
+C:\Users\Matt Mawhinney\Dropbox\Humber\Semester 1\HTTP 5101 Web Application Development\Final Assignment\AnnouncementBar\AnnouncementBar\obj\Debug\AnnouncementBar.pdb
